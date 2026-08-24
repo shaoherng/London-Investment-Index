@@ -1,0 +1,11 @@
+polars>=1.0
+pyarrow
+pandas
+openpyxl
+requests
+python-dateutil
+google-cloud-bigquery
+google-cloud-storage
+db-dtypes
+dbt-core>=1.9
+dbt-bigquery>=1.9

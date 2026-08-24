@@ -1,0 +1,14 @@
+.venv/
+data/
+*.csv
+*.parquet
+*.xlsx
+__pycache__/
+*.pyc
+.env
+*.json
+!dbt_london/**/*.json
+dbt_london/target/
+dbt_london/dbt_packages/
+dbt_london/logs/
+.DS_Store
