@@ -1,5 +1,6 @@
 .venv/
 data/
+CLAUDE.md
 *.csv
 *.parquet
 *.xlsx
